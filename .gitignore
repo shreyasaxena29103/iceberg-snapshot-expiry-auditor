@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.pyiceberg.yaml
+warehouse/
+*.db
+snapshot-audit.json
+*.egg-info/
+build/
+dist/
+**/pyiceberg.yaml
